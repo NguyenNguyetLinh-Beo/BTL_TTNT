@@ -87,4 +87,5 @@ Phần 2: Link dữ liệu, link code trên github và link Video
 2. Link và Mã QR Github:
 https://github.com/NguyenNguyetLinh-Beo/BTL_TTNT
 
-4. Link video Youtube báo cáo và demo kết quả:
+3. Link video Youtube báo cáo và demo kết quả:
+https://youtu.be/ZY-Q1fCqCPY
